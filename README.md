@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Omar Zabadani
 
-<!--
-**OmarZabadani/OmarZabadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on building practical, applied machine learning systems — from NLP-driven matching tools to intelligent optimization systems.
 
-Here are some ideas to get you started:
+I enjoy turning research-grade ML techniques into working products people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on
+AI Study Group Matcher — an intelligent matching tool that pairs resumes/profiles using semantic NLP embeddings and skill-gap analysis, built with Hugging Face Transformers and Gradio.
+cityeye-ai — an AI-powered traffic light control system that dynamically optimizes signal timing in real time.
+Skills & Tools
+
+Python · NLP · Hugging Face Transformers · Gradio · Machine Learning · JavaScript
+
+(Add any others — e.g. PyTorch, scikit-learn, SQL, Docker — to keep this current.)
+
+Currently
+
+Growing my applied ML portfolio and looking for opportunities as an AI/ML Engineer.
+
+Connect with me
+LinkedIn: omar-zbadani
+
+<sub>Feel free to check out my pinned repos below for project details.</sub>
