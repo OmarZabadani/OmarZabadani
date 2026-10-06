@@ -14,7 +14,7 @@ Data Science & Artificial Intelligence graduate, Applied Science University.
 A routing agent classifies each customer question and dispatches it to a specialized Support or Product agent. Company-policy answers come from a RAG pipeline over ChromaDB; order and product lookups use structured tools.
 `LangGraph` `LangChain` `Gemini` `ChromaDB` `FastAPI` `Hugging Face Embeddings`
 
-### [City Eye — Smart Traffic Monitoring]
+### [City Eye — Smart Traffic Monitoring](https://github.com/OmarZabadani/Cityeye-AI-Traffic)
 Upload road images or video → YOLOv8 detects vehicles → traffic density is calculated and annotated. Role-based dashboards for users, police, and analysts, with traffic-light override controls.
 `YOLOv8` `OpenCV` `FastAPI` `React` `MongoDB` `JWT` `Docker`
 
