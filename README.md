@@ -1,23 +1,42 @@
-Hi, I'm Omar Zabadani
+# Hi, I'm Omar Zbadani 
 
-AI/ML Engineer focused on building practical, applied machine learning systems — from NLP-driven matching tools to intelligent optimization systems.
+**AI Engineer** building applied AI systems — LLM agents, RAG pipelines, and computer vision — with full-stack Python and JavaScript.
+Data Science & Artificial Intelligence graduate, Applied Science University.
+ [omarzbadani@gmail.com](mailto:omarzbadani@gmail.com) ·  [LinkedIn](https://linkedin.com/in/omar-zbadani-38691a373) ·  Arabic (native) · English (fluent)
 
-I enjoy turning research-grade ML techniques into working products people can actually use.
+---
 
-What I'm working on
-AI Study Group Matcher — an intelligent matching tool that pairs resumes/profiles using semantic NLP embeddings and skill-gap analysis, built with Hugging Face Transformers and Gradio.
-cityeye-ai — an AI-powered traffic light control system that dynamically optimizes signal timing in real time.
-Skills & Tools
+##  Featured Projects
 
-Python · NLP · Hugging Face Transformers · Gradio · Machine Learning · JavaScript
+### TechStore — AI Customer Support Multi-Agent System
+A routing agent classifies each customer question and dispatches it to a specialized Support or Product agent. Company-policy answers come from a RAG pipeline over ChromaDB; order and product lookups use structured tools.
+`LangGraph` `LangChain` `Gemini` `ChromaDB` `FastAPI` `Hugging Face Embeddings`
 
-(Add any others — e.g. PyTorch, scikit-learn, SQL, Docker — to keep this current.)
+### [City Eye — Smart Traffic Monitoring](https://github.com/OmarZabadani/cityeye-ai)
+Upload road images or video → YOLOv8 detects vehicles → traffic density is calculated and annotated. Role-based dashboards for users, police, and analysts, with traffic-light override controls.
+`YOLOv8` `OpenCV` `FastAPI` `React` `MongoDB` `JWT` `Docker`
 
-Currently
+### Learnix — AI Learning Companion
+Turns lecture notes into summaries, quizzes, and knowledge diagrams using transformer-based NLP, with a clarification assistant for in-context explanations.
+`FastAPI` `PostgreSQL` `Flutter` `Firebase` `Transformers`
 
-Growing my applied ML portfolio and looking for opportunities as an AI/ML Engineer.
+### [Resume & Job Matcher](https://github.com/OmarZabadani/AI-Study-Group-Matcher-System)
+Ranks resumes against job descriptions using semantic embeddings, skill-gap analysis, and multi-job scoring.
+`Sentence-Transformers` `scikit-learn` `Gradio` `Python`
 
-Connect with me
-LinkedIn: omar-zbadani
+---
 
-<sub>Feel free to check out my pinned repos below for project details.</sub>
+##  Tech Stack
+
+**AI / ML:** LangChain · LangGraph · RAG · ChromaDB · Hugging Face Transformers · YOLOv8 · OpenCV · scikit-learn · Pandas · NumPy
+**Backend:** Python · FastAPI · REST APIs · JWT
+**Frontend:** React · JavaScript · Flutter · Dart
+**Databases:** PostgreSQL · MongoDB · Firebase Firestore · SQLite
+**Tools:** Git · Docker · Linux
+
+---
+
+##  Currently
+
+- Building multi-agent LLM systems with LangGraph
+- Looking for **junior AI / ML Engineer** roles
